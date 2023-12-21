@@ -1,5 +1,5 @@
 {
-    "name": "shopware/conflicts",
+    "name": "snapadmin/conflicts",
     "type": "metapackage",
     "description": "Shopware 6 conflicting packages",
     "license": "MIT",
