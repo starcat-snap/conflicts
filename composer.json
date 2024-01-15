@@ -1,5 +1,5 @@
 {
-    "name": "snapadmin/conflicts",
+    "name": "snap-admin/conflicts",
     "type": "metapackage",
     "description": "SnapAdmin conflicting packages",
     "license": "MIT",
